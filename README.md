@@ -6,6 +6,19 @@ InterviewHelp runs as an unobtrusive, transparent, always-on-top heads-up displa
 
 ---
 
+## 📥 Direct Download (Windows)
+
+No Node.js or development environment required! Download the pre-built Windows installer:
+
+👉 **[Download InterviewHelp-Setup-0.8.0.exe](https://github.com/Akash05-kr/InterviewHelp/releases/download/v0.8.0/InterviewHelp-Setup-0.8.0.exe)** *(~103 MB)*
+
+1. Download and run **`InterviewHelp-Setup-0.8.0.exe`**.
+2. Open **Settings** inside the app.
+3. Paste your free Gemini API key from [Google AI Studio](https://aistudio.google.com/apikey).
+4. Click **Start Session** and you're ready!
+
+---
+
 ## ✨ Features
 
 - **🎙️ Real-Time Listening & Transcription**: Listens to the speaker/interviewer in real time using Google Gemini Multimodal Live API over WebSockets.
